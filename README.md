@@ -43,36 +43,37 @@ Rol Bazlı Log Görünürlüğü: Sistemdeki hareketler (girişler, ödemeler, s
 
 Sistem Kayıtları: Merkezi Log ekranı üzerinden ID bazlı filtreleme ve detaylı izleme yapılabilir.
 
-📸 Ekran Görüntüleri
-Ana Dashboard ve Modüller
-!(images/Home.png)
+## 📸 Ekran Görüntüleri
 
-Kullanıcı Profil ve Yetki Yönetimi
-!(images/UserPanel.png)
+* **Ana Dashboard ve Modüller**
+  ![Ana Dashboard](images/Home.png)
 
-Depo Yönetimi,
-!(images/StoreManagement.png)
+* **Kullanıcı Profil ve Yetki Yönetimi**
+  ![Kullanıcı Profili](images/UserPanel.png)
 
- Yeni Tedarikçi
-!(images/ShipmentManagement.png)
+* **Depo Yönetimi**
+  ![Depo Yönetimi](images/StoreManagement.png)
 
-Kullanıcı Sepeti
-!(images/ProductStore.png)
+* **Yeni Tedarikçi**
+  ![Yeni Tedarikçi](images/ShipmentManagement.png)
 
-Modüler Parça Seçimi
-!(images/ProductPage.png)
+* **Kullanıcı Sepeti**
+  ![Kullanıcı Sepeti](images/ProductStore.png)
 
-Sipariş 
-!(images/ProductPage.png)
+* **Modüler Parça Seçimi**
+  ![Modüler Parça Seçimi](images/ProductPage.png)
 
-Kargo Takip Paneli
-!(images/UserOrderView.png)
+* **Sipariş**
+  ![Sipariş](images/ProductPage.png)
 
-Sistem Logları 
-!(images/LogRecords.png)
+* **Kargo Takip Paneli**
+  ![Kargo Takip Paneli](images/UserOrderView.png)
 
-Bildirim Ekranları
-!(images/Notification.png)
+* **Sistem Logları**
+  ![Sistem Logları](images/LogRecords.png)
+
+* **Bildirim Ekranları**
+  ![Bildirim Ekranları](images/Notification.png)
 
 🛠️ Kullanılan Teknolojiler
 Programlama Dili: Java
