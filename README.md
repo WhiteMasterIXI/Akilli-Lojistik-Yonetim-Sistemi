@@ -45,28 +45,34 @@ Sistem Kayıtları: Merkezi Log ekranı üzerinden ID bazlı filtreleme ve detay
 
 📸 Ekran Görüntüleri
 Ana Dashboard ve Modüller
-(images/Home.png)
+!(images/Home.png)
 
 Kullanıcı Profil ve Yetki Yönetimi
-(images/UserPanel.png)
+!(images/UserPanel.png)
 
-Depo Yönetimi, Yeni Tedarikçi ve Stok Kontrolü
-(images/StoreManagement.png)
+Depo Yönetimi,
+!(images/StoreManagement.png)
 
-(images/ShipmentManagement.png)
+ Yeni Tedarikçi
+!(images/ShipmentManagement.png)
 
 Kullanıcı Sepeti
-(images/ProductStore.png)
-Modüler Parça Seçimi
+!(images/ProductStore.png)
 
-(images/ProductPage.png)
-Sipariş ve Kargo Takip Paneli
+Modüler Parça Seçimi
+!(images/ProductPage.png)
+
+Sipariş 
+!(images/ProductPage.png)
+
+Kargo Takip Paneli
+!(images/UserOrderView.png)
 
 Sistem Logları 
-(images/LogRecords.png)
+!(images/LogRecords.png)
 
 Bildirim Ekranları
-(images/Notification.png)
+!(images/Notification.png)
 
 🛠️ Kullanılan Teknolojiler
 Programlama Dili: Java
